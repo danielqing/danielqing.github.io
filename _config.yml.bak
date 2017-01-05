@@ -1,11 +1,11 @@
 # SEO settings
 title: "Hey guy, Welcome to "
-title2: "Daniel Qing!" # default: ""
+title2: "Deep Thing Space!" # default: ""
 description: "Just another minimalist Jekyll theme that focuses on technical writing."
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url: http://danielqing.github.io # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
-cdsn: http://blog.csdn.net/turingant #CSDN
+cdsn: http://blog.csdn.net/u012323077 #CSDN
 weibo: http://weibo.com/u/5866291988 #Sina Weibo
 # baseurl: null # apply null if repo name is something like username.github.io
 
